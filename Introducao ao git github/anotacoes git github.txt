@@ -1,0 +1,30 @@
+COMANDOS DE NAVEGACAO
+
+LISTAR ARQUIVOS : dir
+NAVEGAR ENTRE ARQUIVOS : cd/
+VOLTAR ARQUIVO: cd..
+LIMPAR TERMINAL: cls
+TECLA TAB: alto completa com aqurquivos q existem na pasta
+CRIAR PASTA: mkdir "nome que vc quer na pasta"
+CRIAR ARQUIVO: echo > hello.txt "hello nome do arquivo, txt formato do arquivo q queira criar."
+DELETAR ARQUIVO: del " nome do arquivo"
+DELETAR PASTA: rmdir "nome pasta""m /s /q
+
+
+
+OQUE E SHA1??
+criptografia usada pelo girhub q possui 40 caracteres.
+
+GIT/GITHUB
+
+GIT NIT:para iniciar um repositorio no git
+-A flag para mostra arquivos ocultos
+
+COLOCAR CREDENCIAIS NO COMMIT
+EMAIL: config --global user.email"email do git hub"
+NOME:  confit --global user.name " seu nick "
+
+GIT STATUS: verificar estatos do arquivo
+GIT ADD: enviar arquivo 
+  
+ 
